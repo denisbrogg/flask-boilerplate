@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "flask-boilerplate"
 version = "0.1.0"
-description = ""
+description = "Flask Boilerplate"
 authors = ["denisbrogg <denis.broggini@outlook.com>"]
 
 [tool.poetry.dependencies]
